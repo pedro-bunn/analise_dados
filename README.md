@@ -17,15 +17,16 @@ Depois destas 4 seções, existem mais 2 seções aonde fazemos a busca e criaç
 A primeira seção mostra todo o caminho percorrido para encontrar o melhor modelo. 
 Obs: Nesta seção, se traz os valores de acurácia do modelo
 
-A segunda seção traz a utilização do modelo encontrado para predizer da última tarefa do desafio.
+A segunda seção traz a utilização do modelo encontrado para predizer a última tarefa do desafio.
 
-Observação 1: O modelo H2O não consegue comportar o formato .pkl porém está disponível na nuvem e no código o modelo 
-descoberto podendo ser testado sem problemas.
+Observação 1: O modelo H2O não consegue comportar o formato .pkl porém um arquivo no formato aceito pelo H2O está disponível na nuvem e no código, assim sendo, o modelo está diretamente atrelado ao código sendo possível
+a exata reprodução dos valores.
 
-Observação 2: Para rodar o programa, é indicado que não seja rodada a seção 'Encontrado um modelo com o AutoML (Biblioteca H2O)' por ser um pouco mais demorado. Caso queira entender e acompanhar, espere um pouco até a execução do programa terminar 😁
+Observação 2: Para rodar o programa, é indicado que não seja rodada a seção 'Encontrado um modelo com o AutoML (Biblioteca H2O)' por ser um pouco mais demorado.
+Caso queira entender e acompanhar, espere um pouco até a execução desta seção terminar 😁
 
 Observação 3: O programa irá instalar todas as bibliotecas necessárias se utilizado diretamente no google colab.
-Para rodar por ali, basta clicar nos 3 pontinhos ao lado da seção e clicar em executar cada uma das seções para ir acompanhando passo a passo. As imagems na pasta com nome 'rodar_seção' indicam aonde deve ser clicado.
+Para rodar por ali, basta clicar nos 3 pontinhos ao lado da seção e clicar em executar cada uma das seções para ir acompanhando passo a passo. As imagems na pasta com nome 'rodar_seção_1' e 'rodar_seção_2' indicam aonde deve ser feito os clicks.
 
-Atenciosamente.
+Atenciosamente. 😊
 
